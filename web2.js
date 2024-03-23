@@ -15,7 +15,12 @@ const markdownToHtml = (markdown) => {
   };
 
   const parseParagraph = (line) => {
-    return `<p>${line}</p>`;
+    const paragraphRegex = /^([a-zA-Z].*)/;;
+    const match = line.match(paragraphRegex);
+    if (match) {
+      return `<p>${line}</p>`;
+    }
+    return line;
   };
 
   const parseBold = (line) => {
@@ -30,13 +35,13 @@ const markdownToHtml = (markdown) => {
     return line.replace(/\[(.*?)\]\((.*?)\)/g, '<a href="$2">$1</a>');
   };
 
-const parseQuote = (line) => {
+  const parseQuote = (line) => {
     return line.replace(/^\s*> (.*)/g, '<blockquote>$1</blockquote>');
-};
+  };
 
-const parseImage = (line) => {
+  const parseImage = (line) => {
     return line.replace(/!\[(.*?)\]\((.*?)\)/g, '<img src="$2" alt="$1">');
-}
+  }
 
 
 //   const parseCode = (line) => {
