@@ -42,4 +42,4 @@ This project is licensed under the MIT License.
 functional-js-group-09 created by GitHub Classroom
 
 ## Team Members
-Jose Cáceres, Ricardo Urvina, Sofía Villalobos
+Jose Cáceres, Ricardo Urvina, Sofía Villalobos.
