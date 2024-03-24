@@ -1,0 +1,1447 @@
+.style-0 {
+    cursor: auto;
+    padding-top: 70px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+    color: rgb(51, 51, 51);
+    box-sizing: border-box;
+    background-color: rgb(255, 255, 255);
+    margin: 0px;
+}
+
+.style-1 {
+    border-radius: 0px;
+    background-color: rgb(34, 34, 34);
+    border-color: rgb(8, 8, 8);
+    top: 0px;
+    border-width: 0px 0px 1px;
+    position: fixed;
+    right: 0px;
+    left: 0px;
+    z-index: 1030;
+    min-height: 50px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    display: block;
+}
+
+.style-2 {
+    width: 1170px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    box-sizing: border-box;
+}
+
+.style-3 {
+    margin-right: 0px;
+    margin-left: 0px;
+    float: left;
+    box-sizing: border-box;
+}
+
+.style-4 {
+    display: none;
+    border-color: rgb(51, 51, 51);
+    position: relative;
+    float: right;
+    padding: 9px 10px;
+    margin-top: 8px;
+    margin-right: 15px;
+    margin-bottom: 8px;
+    background-color: rgba(0, 0, 0, 0);
+    border: 1px solid rgb(51, 51, 51);
+    border-radius: 4px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+    box-sizing: border-box;
+    background-image: none;
+    appearance: button;
+    cursor: pointer;
+    text-transform: none;
+    overflow: visible;
+    margin: 8px 15px 8px 0px;
+    color: rgb(51, 51, 51);
+}
+
+.style-5 {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0px;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0px, 0px, 0px, 0px);
+    border: 0px none rgb(51, 51, 51);
+    box-sizing: border-box;
+}
+
+.style-6 {
+    background-color: rgb(255, 255, 255);
+    display: block;
+    width: 22px;
+    height: 2px;
+    border-radius: 1px;
+    box-sizing: border-box;
+}
+
+.style-7 {
+    background-color: rgb(255, 255, 255);
+    margin-top: 4px;
+    display: block;
+    width: 22px;
+    height: 2px;
+    border-radius: 1px;
+    box-sizing: border-box;
+}
+
+.style-8 {
+    background-color: rgb(255, 255, 255);
+    margin-top: 4px;
+    display: block;
+    width: 22px;
+    height: 2px;
+    border-radius: 1px;
+    box-sizing: border-box;
+}
+
+.style-9 {
+    margin-left: -15px;
+    color: rgb(157, 157, 157);
+    float: left;
+    height: 50px;
+    padding: 15px;
+    font-size: 18px;
+    line-height: 20px;
+    text-decoration: none solid rgb(157, 157, 157);
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-10 {
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    display: block;
+    height: auto !important;
+    overflow: visible;
+    width: auto;
+    border-top: 0px none rgb(16, 16, 16);
+    box-shadow: none;
+    border-color: rgb(16, 16, 16);
+    overflow-x: visible;
+    box-sizing: border-box;
+    max-height: 340px;
+}
+
+.style-11 {
+    float: right;
+    margin: 0px;
+    padding-left: 0px;
+    margin-bottom: 0px;
+    list-style: outside none none;
+    margin-top: 0px;
+    box-sizing: border-box;
+}
+
+.style-12 {
+    float: left;
+    display: block;
+    position: relative;
+    box-sizing: border-box;
+}
+
+.style-13 {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: rgb(157, 157, 157);
+    line-height: 20px;
+    display: block;
+    position: relative;
+    text-decoration: none solid rgb(157, 157, 157);
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-14 {
+    float: left;
+    display: block;
+    position: relative;
+    box-sizing: border-box;
+}
+
+.style-15 {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: rgb(157, 157, 157);
+    line-height: 20px;
+    display: block;
+    position: relative;
+    text-decoration: none solid rgb(157, 157, 157);
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-16 {
+    width: 1170px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    box-sizing: border-box;
+}
+
+.style-17 {
+    color: rgb(51, 122, 183);
+    text-decoration: none solid rgb(51, 122, 183);
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-18 {
+    margin-right: -15px;
+    margin-left: -15px;
+    box-sizing: border-box;
+}
+
+.style-19 {
+    width: 100%;
+    float: left;
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    box-sizing: border-box;
+}
+
+.style-20 {
+    font-size: 36px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    line-height: 39.6px;
+    color: rgb(51, 51, 51);
+    box-sizing: border-box;
+    margin: 20px 0px 10px;
+}
+
+.style-21 {
+    margin: 0px 0px 10px;
+    box-sizing: border-box;
+}
+
+.style-22 {
+    margin: 0px 0px 10px;
+    box-sizing: border-box;
+}
+
+.style-23 {
+    box-sizing: border-box;
+}
+
+.style-24 {
+    margin-bottom: 10px;
+    margin-top: 0px;
+    box-sizing: border-box;
+}
+
+.style-25 {
+    box-sizing: border-box;
+}
+
+.style-26 {
+    box-sizing: border-box;
+}
+
+.style-27 {
+    margin-right: -15px;
+    margin-left: -15px;
+    box-sizing: border-box;
+}
+
+.style-28 {
+    width: 45%;
+    float: left;
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    box-sizing: border-box;
+}
+
+.style-29 {
+    border-bottom: 1px solid rgb(221, 221, 221);
+    padding-left: 0px;
+    margin-bottom: 0px;
+    list-style: outside none none;
+    margin-top: 0px;
+    box-sizing: border-box;
+}
+
+.style-30 {
+    float: left;
+    margin-bottom: -1px;
+    display: block;
+    position: relative;
+    box-sizing: border-box;
+}
+
+.style-31 {
+    color: rgb(85, 85, 85);
+    cursor: default;
+    background-color: rgb(255, 255, 255);
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(221, 221, 221) rgb(221, 221, 221) rgba(0, 0, 0, 0);
+    border-image: none;
+    margin-right: 2px;
+    line-height: 20px;
+    border: 1px solid transparent;
+    border-radius: 4px 4px 0px 0px;
+    padding: 10px 15px;
+    display: block;
+    position: relative;
+    text-decoration: none solid rgb(85, 85, 85);
+    box-sizing: border-box;
+}
+
+.style-32 {
+    float: left;
+    margin-bottom: -1px;
+    display: block;
+    position: relative;
+    box-sizing: border-box;
+}
+
+.style-33 {
+    margin-right: 2px;
+    line-height: 20px;
+    border: 1px solid rgba(0, 0, 0, 0);
+    border-radius: 4px 4px 0px 0px;
+    padding: 10px 15px;
+    display: block;
+    position: relative;
+    color: rgb(51, 122, 183);
+    text-decoration: none solid rgb(51, 122, 183);
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-34 {
+    border-right: 1px solid rgb(221, 221, 221);
+    border-bottom: 1px solid rgb(221, 221, 221);
+    border-left: 1px solid rgb(221, 221, 221);
+    border-image: none;
+    border-top: 0px none rgb(51, 51, 51);
+    border-radius: 0px 0px 4px 4px;
+    padding: 14px;
+    box-sizing: border-box;
+}
+
+.style-35 {
+    display: block;
+    box-sizing: border-box;
+}
+
+.style-36 {
+    font-family: 'Courier New', Courier, monospace;
+    border: 0px none rgb(51, 51, 51);
+    width: 100%;
+    height: 336px;
+    font-size: 14px;
+    line-height: 20px;
+    box-sizing: border-box;
+    margin: 0px;
+    color: rgb(51, 51, 51);
+    overflow: auto;
+}
+
+.style-37 {
+    display: none;
+    box-sizing: border-box;
+}
+
+.style-38 {
+    font-family: 'Courier New', Courier, monospace;
+    border: 0px none rgb(51, 51, 51);
+    width: 100%;
+    height: 336px;
+    font-size: 14px;
+    line-height: 20px;
+    box-sizing: border-box;
+    margin: 0px;
+    color: rgb(51, 51, 51);
+    overflow: auto;
+}
+
+.style-39 {
+    width: 10%;
+    float: left;
+    padding-top: 140px;
+    position: relative;
+    min-height: 1px;
+    box-sizing: border-box;
+}
+
+.style-40 {
+    display: block;
+    margin: auto auto 1em;
+    color: rgb(51, 51, 51);
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(204, 204, 204);
+    padding: 6px 12px;
+    margin-bottom: 14px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    touch-action: manipulation;
+    cursor: pointer;
+    user-select: none;
+    border: 1px solid rgb(204, 204, 204);
+    border-radius: 4px;
+    text-decoration: none solid rgb(51, 51, 51);
+    box-sizing: border-box;
+    background-image: none;
+}
+
+.style-41 {
+    box-sizing: border-box;
+    position: relative;
+    top: 1px;
+    display: inline-block;
+    font-family: 'Glyphicons Halflings';
+    font-weight: 400;
+    line-height: 14px;
+    -webkit-font-smoothing: antialiased;
+    font-style: normal;
+}
+
+.style-42 {
+    display: block;
+    margin: auto auto 1em;
+    color: rgb(51, 51, 51);
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(204, 204, 204);
+    padding: 6px 12px;
+    margin-bottom: 14px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    touch-action: manipulation;
+    cursor: pointer;
+    user-select: none;
+    border: 1px solid rgb(204, 204, 204);
+    border-radius: 4px;
+    text-decoration: none solid rgb(51, 51, 51);
+    box-sizing: border-box;
+    background-image: none;
+}
+
+.style-43 {
+    box-sizing: border-box;
+    position: relative;
+    top: 1px;
+    display: inline-block;
+    font-family: 'Glyphicons Halflings';
+    font-weight: 400;
+    line-height: 14px;
+    -webkit-font-smoothing: antialiased;
+    font-style: normal;
+}
+
+.style-44 {
+    display: block;
+    margin: auto auto 1em;
+    color: rgb(51, 51, 51);
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(204, 204, 204);
+    padding: 6px 12px;
+    margin-bottom: 14px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    touch-action: manipulation;
+    cursor: pointer;
+    user-select: none;
+    border: 1px solid rgb(204, 204, 204);
+    border-radius: 4px;
+    text-decoration: none solid rgb(51, 51, 51);
+    box-sizing: border-box;
+    background-image: none;
+}
+
+.style-45 {
+    box-sizing: border-box;
+    position: relative;
+    top: 1px;
+    display: inline-block;
+    font-family: 'Glyphicons Halflings';
+    font-weight: 400;
+    line-height: 14px;
+    -webkit-font-smoothing: antialiased;
+    font-style: normal;
+}
+
+.style-46 {
+
+    width: 45%;
+    float: left;
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    box-sizing: border-box;
+}
+
+.style-47 {
+    border-bottom: 1px solid rgb(221, 221, 221);
+    padding-left: 0px;
+    margin-bottom: 0px;
+    list-style: outside none none;
+    margin-top: 0px;
+    box-sizing: border-box;
+}
+
+.style-48 {
+    float: left;
+    margin-bottom: -1px;
+    display: block;
+    position: relative;
+    box-sizing: border-box;
+}
+
+.style-49 {
+    color: rgb(85, 85, 85);
+    cursor: default;
+    background-color: rgb(255, 255, 255);
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(221, 221, 221) rgb(221, 221, 221) rgba(0, 0, 0, 0);
+    border-image: none;
+    margin-right: 2px;
+    line-height: 20px;
+    border: 1px solid transparent;
+    border-radius: 4px 4px 0px 0px;
+    padding: 10px 15px;
+    display: block;
+    position: relative;
+    text-decoration: none solid rgb(85, 85, 85);
+    box-sizing: border-box;
+}
+
+.style-50 {
+    float: left;
+    margin-bottom: -1px;
+    display: block;
+    position: relative;
+    box-sizing: border-box;
+}
+
+.style-51 {
+    margin-right: 2px;
+    line-height: 20px;
+    border: 1px solid rgba(0, 0, 0, 0);
+    border-radius: 4px 4px 0px 0px;
+    padding: 10px 15px;
+    display: block;
+    position: relative;
+    color: rgb(51, 122, 183);
+    text-decoration: none solid rgb(51, 122, 183);
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-52 {
+    border-right: 1px solid rgb(221, 221, 221);
+    border-bottom: 1px solid rgb(221, 221, 221);
+    border-left: 1px solid rgb(221, 221, 221);
+    border-image: none;
+    border-top: 0px none rgb(51, 51, 51);
+    border-radius: 0px 0px 4px 4px;
+    padding: 14px;
+    box-sizing: border-box;
+}
+
+.style-53 {
+    box-sizing: border-box;
+}
+
+.style-54 {
+    height: 336px;
+    width: 100%;
+    border: 0px none rgb(51, 51, 51);
+    box-sizing: border-box;
+    line-height: 20px;
+
+    margin: 0px;
+    color: rgb(51, 51, 51);
+    overflow: auto;
+}
+
+.style-55 {
+    display: none;
+    box-sizing: border-box;
+}
+
+.style-56 {
+    font-family: 'Courier New', Courier, monospace;
+    border: 0px none rgb(51, 51, 51);
+    width: 100%;
+    height: 336px;
+    font-size: 14px;
+    line-height: 20px;
+    box-sizing: border-box;
+    margin: 0px;
+    color: rgb(51, 51, 51);
+    overflow: auto;
+}
+
+.style-57 {
+    margin-right: -15px;
+    margin-left: -15px;
+    box-sizing: border-box;
+}
+
+.style-58 {
+    width: 100%;
+    float: left;
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    box-sizing: border-box;
+}
+
+.style-59 {
+    margin-right: -15px;
+    margin-left: -15px;
+    box-sizing: border-box;
+}
+
+.style-60 {
+    width: 100%;
+    float: left;
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    box-sizing: border-box;
+}
+
+.style-61 {
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    line-height: 33px;
+    color: rgb(51, 51, 51);
+    box-sizing: border-box;
+}
+
+.style-62 {
+    margin: 0px 0px 10px;
+    box-sizing: border-box;
+}
+
+.style-63 {
+    color: rgb(51, 122, 183);
+    text-decoration: none solid rgb(51, 122, 183);
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-64 {
+    margin-right: -15px;
+    margin-left: -15px;
+    box-sizing: border-box;
+}
+
+.style-65 {
+    width: 50%;
+    float: left;
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    box-sizing: border-box;
+}
+
+.style-66 {
+    font-size: 24px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    line-height: 26.4px;
+    color: rgb(51, 51, 51);
+    box-sizing: border-box;
+}
+
+.style-67 {
+    margin-bottom: 10px;
+    margin-top: 0px;
+    box-sizing: border-box;
+}
+
+.style-68 {
+    box-sizing: border-box;
+}
+
+.style-69 {
+    box-sizing: border-box;
+    font-weight: 700;
+}
+
+.style-70 {
+    color: rgb(199, 37, 78);
+    background-color: rgb(249, 242, 244);
+    border-radius: 4px;
+    font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;
+    padding: 2px 4px;
+    font-size: 12.6px;
+    box-sizing: border-box;
+}
+
+.style-71 {
+    box-sizing: border-box;
+}
+
+.style-72 {
+    box-sizing: border-box;
+}
+
+.style-73 {
+    color: rgb(199, 37, 78);
+    background-color: rgb(249, 242, 244);
+    border-radius: 4px;
+    font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;
+    padding: 2px 4px;
+    font-size: 12.6px;
+    box-sizing: border-box;
+}
+
+.style-74 {
+    box-sizing: border-box;
+}
+
+.style-75 {
+    text-decoration: line-through;
+    box-sizing: border-box;
+}
+
+.style-76 {
+    color: rgb(199, 37, 78);
+    background-color: rgb(249, 242, 244);
+    border-radius: 4px;
+    font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;
+    padding: 2px 4px;
+    font-size: 12.6px;
+    box-sizing: border-box;
+}
+
+.style-77 {
+    box-sizing: border-box;
+}
+
+.style-78 {
+    color: rgb(199, 37, 78);
+    background-color: rgb(249, 242, 244);
+    border-radius: 4px;
+    font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;
+    padding: 2px 4px;
+    font-size: 12.6px;
+    box-sizing: border-box;
+}
+
+.style-79 {
+    color: rgb(199, 37, 78);
+    background-color: rgb(249, 242, 244);
+    border-radius: 4px;
+    font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;
+    padding: 2px 4px;
+    font-size: 12.6px;
+    box-sizing: border-box;
+}
+
+.style-80 {
+    color: rgb(199, 37, 78);
+    background-color: rgb(249, 242, 244);
+    border-radius: 4px;
+    font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;
+    padding: 2px 4px;
+    font-size: 12.6px;
+    box-sizing: border-box;
+}
+
+.style-81 {
+    font-size: 24px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    line-height: 26.4px;
+    color: rgb(51, 51, 51);
+    box-sizing: border-box;
+}
+
+.style-82 {
+    margin: 0px 0px 10px;
+    box-sizing: border-box;
+}
+
+.style-83 {
+    color: rgb(199, 37, 78);
+    background-color: rgb(249, 242, 244);
+    border-radius: 4px;
+    font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;
+    padding: 2px 4px;
+    font-size: 12.6px;
+    box-sizing: border-box;
+}
+
+.style-84 {
+    color: rgb(199, 37, 78);
+    background-color: rgb(249, 242, 244);
+    border-radius: 4px;
+    font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;
+    padding: 2px 4px;
+    font-size: 12.6px;
+    box-sizing: border-box;
+}
+
+.style-85 {
+    color: rgb(199, 37, 78);
+    background-color: rgb(249, 242, 244);
+    border-radius: 4px;
+    font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;
+    padding: 2px 4px;
+    font-size: 12.6px;
+    box-sizing: border-box;
+}
+
+.style-86 {
+    color: rgb(199, 37, 78);
+    background-color: rgb(249, 242, 244);
+    border-radius: 4px;
+    font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;
+    padding: 2px 4px;
+    font-size: 12.6px;
+    box-sizing: border-box;
+}
+
+.style-87 {
+    font-size: 24px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    line-height: 26.4px;
+    color: rgb(51, 51, 51);
+    box-sizing: border-box;
+}
+
+.style-88 {
+    margin: 0px 0px 10px;
+    box-sizing: border-box;
+}
+
+.style-89 {
+    margin-bottom: 10px;
+    margin-top: 0px;
+    box-sizing: border-box;
+}
+
+.style-90 {
+    box-sizing: border-box;
+}
+
+.style-91 {
+    color: rgb(199, 37, 78);
+    background-color: rgb(249, 242, 244);
+    border-radius: 4px;
+    font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;
+    padding: 2px 4px;
+    font-size: 12.6px;
+    box-sizing: border-box;
+}
+
+.style-92 {
+    box-sizing: border-box;
+}
+
+.style-93 {
+    color: rgb(199, 37, 78);
+    background-color: rgb(249, 242, 244);
+    border-radius: 4px;
+    font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;
+    padding: 2px 4px;
+    font-size: 12.6px;
+    box-sizing: border-box;
+}
+
+.style-94 {
+    box-sizing: border-box;
+}
+
+.style-95 {
+    margin-bottom: 0px;
+    margin-top: 0px;
+    box-sizing: border-box;
+}
+
+.style-96 {
+    box-sizing: border-box;
+}
+
+.style-97 {
+    color: rgb(199, 37, 78);
+    background-color: rgb(249, 242, 244);
+    border-radius: 4px;
+    font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;
+    padding: 2px 4px;
+    font-size: 12.6px;
+    box-sizing: border-box;
+}
+
+.style-98 {
+    box-sizing: border-box;
+}
+
+.style-99 {
+    color: rgb(199, 37, 78);
+    background-color: rgb(249, 242, 244);
+    border-radius: 4px;
+    font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;
+    padding: 2px 4px;
+    font-size: 12.6px;
+    box-sizing: border-box;
+}
+
+.style-100 {
+    box-sizing: border-box;
+}
+
+.style-101 {
+    color: rgb(199, 37, 78);
+    background-color: rgb(249, 242, 244);
+    border-radius: 4px;
+    font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;
+    padding: 2px 4px;
+    font-size: 12.6px;
+    box-sizing: border-box;
+}
+
+.style-102 {
+    box-sizing: border-box;
+}
+
+.style-103 {
+    color: rgb(199, 37, 78);
+    background-color: rgb(249, 242, 244);
+    border-radius: 4px;
+    font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;
+    padding: 2px 4px;
+    font-size: 12.6px;
+    box-sizing: border-box;
+}
+
+.style-104 {
+    box-sizing: border-box;
+}
+
+.style-105 {
+    box-sizing: border-box;
+}
+
+.style-106 {
+    color: rgb(199, 37, 78);
+    background-color: rgb(249, 242, 244);
+    border-radius: 4px;
+    font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;
+    padding: 2px 4px;
+    font-size: 12.6px;
+    box-sizing: border-box;
+}
+
+.style-107 {
+    padding: 9.5px;
+    margin: 0px 0px 10px;
+    font-size: 13px;
+    word-break: break-all;
+    overflow-wrap: break-word;
+    background-color: rgb(245, 245, 245);
+    border: 1px solid rgb(204, 204, 204);
+    border-radius: 4px;
+    font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;
+    display: block;
+    color: rgb(51, 51, 51);
+    line-height: 18.5714px;
+    box-sizing: border-box;
+    overflow: auto;
+}
+
+.style-108 {
+    padding: 0px;
+    font-size: 13px;
+    color: rgb(51, 51, 51);
+    white-space: pre-wrap;
+    border-radius: 0px;
+    background-color: rgba(0, 0, 0, 0);
+    font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;
+    box-sizing: border-box;
+}
+
+.style-109 {
+    margin: 0px 0px 10px;
+    box-sizing: border-box;
+}
+
+.style-110 {
+    font-size: 24px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    line-height: 26.4px;
+    color: rgb(51, 51, 51);
+    box-sizing: border-box;
+}
+
+.style-111 {
+    margin: 0px 0px 10px;
+    box-sizing: border-box;
+}
+
+.style-112 {
+    padding: 9.5px;
+    margin: 0px 0px 10px;
+    font-size: 13px;
+    word-break: break-all;
+    overflow-wrap: break-word;
+    background-color: rgb(245, 245, 245);
+    border: 1px solid rgb(204, 204, 204);
+    border-radius: 4px;
+    font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;
+    display: block;
+    color: rgb(51, 51, 51);
+    line-height: 18.5714px;
+    box-sizing: border-box;
+    overflow: auto;
+}
+
+.style-113 {
+    padding: 0px;
+    font-size: 13px;
+    color: rgb(51, 51, 51);
+    white-space: pre-wrap;
+    border-radius: 0px;
+    background-color: rgba(0, 0, 0, 0);
+    font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;
+    box-sizing: border-box;
+}
+
+.style-114 {
+    width: 50%;
+    float: left;
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    box-sizing: border-box;
+}
+
+.style-115 {
+    font-size: 24px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    line-height: 26.4px;
+    color: rgb(51, 51, 51);
+    box-sizing: border-box;
+}
+
+.style-116 {
+    margin: 0px 0px 10px;
+    box-sizing: border-box;
+}
+
+.style-117 {
+    padding: 9.5px;
+    margin: 0px 0px 10px;
+    font-size: 13px;
+    word-break: break-all;
+    overflow-wrap: break-word;
+    background-color: rgb(245, 245, 245);
+    border: 1px solid rgb(204, 204, 204);
+    border-radius: 4px;
+    font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;
+    display: block;
+    color: rgb(51, 51, 51);
+    line-height: 18.5714px;
+    box-sizing: border-box;
+    overflow: auto;
+}
+
+.style-118 {
+    margin: 0px 0px 10px;
+    box-sizing: border-box;
+}
+
+.style-119 {
+    color: rgb(199, 37, 78);
+    background-color: rgb(249, 242, 244);
+    border-radius: 4px;
+    font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;
+    padding: 2px 4px;
+    font-size: 12.6px;
+    box-sizing: border-box;
+}
+
+.style-120 {
+    color: rgb(199, 37, 78);
+    background-color: rgb(249, 242, 244);
+    border-radius: 4px;
+    font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;
+    padding: 2px 4px;
+    font-size: 12.6px;
+    box-sizing: border-box;
+}
+
+.style-121 {
+    color: rgb(199, 37, 78);
+    background-color: rgb(249, 242, 244);
+    border-radius: 4px;
+    font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;
+    padding: 2px 4px;
+    font-size: 12.6px;
+    box-sizing: border-box;
+}
+
+.style-122 {
+    margin: 0px 0px 10px;
+    box-sizing: border-box;
+}
+
+.style-123 {
+    margin: 0px 0px 10px;
+    box-sizing: border-box;
+}
+
+.style-124 {
+    padding: 9.5px;
+    margin: 0px 0px 10px;
+    font-size: 13px;
+    word-break: break-all;
+    overflow-wrap: break-word;
+    background-color: rgb(245, 245, 245);
+    border: 1px solid rgb(204, 204, 204);
+    border-radius: 4px;
+    font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;
+    display: block;
+    color: rgb(51, 51, 51);
+    line-height: 18.5714px;
+    box-sizing: border-box;
+    overflow: auto;
+}
+
+.style-125 {
+    font-size: 24px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    line-height: 26.4px;
+    color: rgb(51, 51, 51);
+    box-sizing: border-box;
+}
+
+.style-126 {
+    margin: 0px 0px 10px;
+    box-sizing: border-box;
+}
+
+.style-127 {
+    color: rgb(199, 37, 78);
+    background-color: rgb(249, 242, 244);
+    border-radius: 4px;
+    font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;
+    padding: 2px 4px;
+    font-size: 12.6px;
+    box-sizing: border-box;
+}
+
+.style-128 {
+    color: rgb(199, 37, 78);
+    background-color: rgb(249, 242, 244);
+    border-radius: 4px;
+    font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;
+    padding: 2px 4px;
+    font-size: 12.6px;
+    box-sizing: border-box;
+}
+
+.style-129 {
+    padding: 9.5px;
+    margin: 0px 0px 10px;
+    font-size: 13px;
+    word-break: break-all;
+    overflow-wrap: break-word;
+    background-color: rgb(245, 245, 245);
+    border: 1px solid rgb(204, 204, 204);
+    border-radius: 4px;
+    font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;
+    display: block;
+    color: rgb(51, 51, 51);
+    line-height: 18.5714px;
+    box-sizing: border-box;
+    overflow: auto;
+}
+
+.style-130 {
+    padding: 0px;
+    font-size: 13px;
+    color: rgb(51, 51, 51);
+    white-space: pre-wrap;
+    border-radius: 0px;
+    background-color: rgba(0, 0, 0, 0);
+    font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;
+    box-sizing: border-box;
+}
+
+.style-131 {
+    margin: 0px 0px 10px;
+    box-sizing: border-box;
+}
+
+.style-132 {
+    font-size: 24px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    line-height: 26.4px;
+    color: rgb(51, 51, 51);
+    box-sizing: border-box;
+}
+
+.style-133 {
+    margin: 0px 0px 10px;
+    box-sizing: border-box;
+}
+
+.style-134 {
+    color: rgb(199, 37, 78);
+    background-color: rgb(249, 242, 244);
+    border-radius: 4px;
+    font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;
+    padding: 2px 4px;
+    font-size: 12.6px;
+    box-sizing: border-box;
+}
+
+.style-135 {
+    padding: 9.5px;
+    margin: 0px 0px 10px;
+    font-size: 13px;
+    word-break: break-all;
+    overflow-wrap: break-word;
+    background-color: rgb(245, 245, 245);
+    border: 1px solid rgb(204, 204, 204);
+    border-radius: 4px;
+    font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;
+    display: block;
+    color: rgb(51, 51, 51);
+    line-height: 18.5714px;
+    box-sizing: border-box;
+    overflow: auto;
+}
+
+.style-136 {
+    padding: 0px;
+    font-size: 13px;
+    color: rgb(51, 51, 51);
+    white-space: pre-wrap;
+    border-radius: 0px;
+    background-color: rgba(0, 0, 0, 0);
+    font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;
+    box-sizing: border-box;
+}
+
+.style-137 {
+    margin: 0px 0px 10px;
+    box-sizing: border-box;
+}
+
+.style-138 {
+    box-sizing: border-box;
+}
+
+.style-139 {
+    box-sizing: border-box;
+}
+
+.style-140 {
+    padding: 10px 20px;
+    margin: 0px 0px 20px;
+    font-size: 17.5px;
+    border-left: 5px solid rgb(238, 238, 238);
+    box-sizing: border-box;
+}
+
+.style-141 {
+    margin-bottom: 0px;
+    box-sizing: border-box;
+}
+
+.style-142 {
+    margin: 50px 0px;
+    box-sizing: border-box;
+    display: block;
+}
+
+.style-143 {
+    margin-right: -15px;
+    margin-left: -15px;
+    box-sizing: border-box;
+}
+
+.style-144 {
+    width: 100%;
+    float: left;
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    box-sizing: border-box;
+}
+
+.style-145 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-top: 1px solid rgb(238, 238, 238);
+    box-sizing: content-box;
+    height: 0px;
+    border: 0px;
+}
+
+.style-146 {
+    margin: 0px 0px 10px;
+    box-sizing: border-box;
+}
+
+.style-147 {
+    display: none !important;
+    box-sizing: border-box;
+}
+
+.style-148 {
+    border: none;
+    height: 0px;
+    width: 0px;
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+    visibility: visible;
+    background-color: transparent;
+    display: inline-block;
+    height: 0px;
+    width: 0px;
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+    visibility: visible;
+    background-color: rgba(0, 0, 0, 0);
+    display: inline-block;
+    box-sizing: border-box;
+}
+
+.style-149 {
+    left: 0;
+    position: absolute;
+    top: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+.style-150 {
+    display: none;
+    box-sizing: border-box;
+}
+
+.transform_button {
+    display: block;
+    background: #62869b;
+    width: 75%;
+    height: 25px;
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+    color: #fff;
+    border-radius: 15px;
+    margin-bottom: 10%;
+}
+
+.transform_button:hover {
+    background: #3e5a6b;
+}
+
+#navbar__list {
+    position: fixed;
+    width: 100%;
+    height: 40px;
+    display: block;
+    align-items: center;
+    justify-content: center;
+}
+
+.menu-items {
+    text-decoration: none;
+    color: black;
+    padding: 15px;
+}
+
+.box {
+    height: 500px;
+    width: 100%;
+    padding: 40px;
+}
+
+.file-upload-wrapper {
+    position: relative;
+    display: inline-block;
+}
+
+.file-upload-button {
+    display: block;
+    padding: 10px 10px 10px 10px;
+    width: 75%;
+    height: 25px;
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+    border-radius: 15px;
+    margin-bottom: 10%;
+}
+
+.file-upload-button:hover {
+    background-color: #45a049;
+}

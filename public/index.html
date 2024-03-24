@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document Title</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+
+<body>
+<div class="style-16">
+    <div class="style-18">
+        <div class="style-19">
+            <h1 class="style-20">Convert Markdown to HTML</h1>
+            <p class="style-21">
+                Paste or type your markdown and see it rendered as HTML.
+                Download or copy the resulting HTML.
+            </p>
+        </div>
+    </div><!-- /.row (preamble) -->
+
+    <div class="style-27">
+        <div class="style-28">
+            <ul class="style-29" role="tablist">
+                <li role="presentation" class="style-30">
+                    <a href="#mdInputPanel" aria-controls="mdInputPanel" role="tab" data-toggle="tab" class="style-31">Enter
+                        Markdown</a>
+                </li>
+            </ul>
+            <div class="style-34">
+                <div role="tabpanel" class="style-35">
+                        <textarea class="style-36">
+                        </textarea>
+                </div><!-- /.tab-pane -->
+            </div><!-- /.tab-content -->
+        </div><!-- / source column -->
+        <div class="style-39">
+            <input type="file" id="fileUpload" accept=".md" hidden>
+            <label for="fileUpload" class="file-upload-button">Choose File</label>
+
+            <a href="#" class="transform_button" id="transformButton">Transform</a>
+            <a href="#" class="transform_button" id="downloadFile">Download</a>
+        </div><!-- / button column -->
+        <div class="style-46">
+            <nav class="style-46" style="display: contents;">
+                <ul class="style-47" id="navList">
+                    <li class="style-48"><a href="#home" class="style-49">Preview</a></li>
+                    <li class="style-50"><a href="#about" class="style-51">Raw-HTML</a></li>
+                </ul>
+            </nav>
+            <div class="style-52">
+                <div id="home" class="content style-53">
+                    <div class="style-54">Preview</div>
+                </div>
+                <div id="about" class="content style-55" style="display: none;">
+                    <div class="style-56">RAW-HTML</div>
+                </div>
+            </div>
+        </div><!-- / dest column -->
+    </div><!-- /.row (actual converter) -->
+</div> <!-- /.container -->
+</body>
+
+<script src="index.js"></script>
+<script src="main.js"></script>
+
+</html>
