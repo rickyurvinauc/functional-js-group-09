@@ -30,12 +30,14 @@ Por último, puedes insertar imágenes:
 
 ## Bloque de código
 
-```javascript
+``` javascript
 function saludar() {
   console.log('¡Hola mundo!');
 }
 
 saludar();
+
+```
 
 Este es un párrafo de texto.
 

@@ -12,11 +12,20 @@ const markdownToHtml = (markdown) => {
       return line;
   };
 
+  const parseList = (line) => {
+    if (line.match(/^\s*\d+\.\s/)) {
+      return `<ol><li>${line.replace(/^\s*\d+\.\s/, '')}</li></ol>`;
+    } else if (line.match(/^\s*-\s/) || line.match(/^\s*\*\s/)) {
+      return `<ul><li>${line.replace(/^\s*-\s/, '').replace(/^\s*\*\s/, '')}</li></ul>`;
+    }
+    return line;
+  };
+
   const parseParagraph = (line) => {
       const paragraphRegex = /^([a-zA-Z].*)/;
       const match = line.match(paragraphRegex);
       if (match) {
-          return `<p>${line}</p>`;
+          return parseList(line) || `<p>${line}</p>`;
       }
       return line;
   };
@@ -42,19 +51,16 @@ const markdownToHtml = (markdown) => {
   }
 
 
-//   const parseCode = (line) => {
-//     if (line.match(/^```/)) {
-//       return `<pre><code>${line.replace(/^```/, '').trim()}</code></pre>`;
-//     }
-//     return line;
-//   };
+  const parseCode = (line) => {
+    if (line.match(/^\s*```/)) {
+        inCodeBlock = !inCodeBlock; 
+        return ''; 
+    } else {
+        return inCodeBlock ? `<pre><code>${line}</code></pre>` : line;
+    }
+  };
 
-//   const parseHorizontalRule = (line) => {
-//     if (line.trim().match(/^\s*(-{3,}|\*{3,}|_{3,})\s*$/)) {
-//       return '<hr>';
-//     }
-//     return line;
-//   };  
+  let inCodeBlock = false; 
 
   const elementParsers = [
       parseHeader,
@@ -63,7 +69,9 @@ const markdownToHtml = (markdown) => {
       parseItalic,
       parseLink,
       parseQuote,
-      parseImage
+      parseImage,
+      parseCode,
+      parseList
   ];
 
   const parseLine = (line) => {
