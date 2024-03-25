@@ -1,0 +1,477 @@
+.style-16 {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  box-sizing: border-box;
+}
+
+.style-18 {
+  margin-right: -15px;
+  margin-left: -15px;
+  box-sizing: border-box;
+  width: 100%;
+}
+
+.style-19 {
+  width: 100%;
+  float: left;
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+  box-sizing: border-box;
+}
+
+.style-20 {
+  font-size: 36px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 500;
+  line-height: 39.6px;
+  color: rgb(51, 51, 51);
+  box-sizing: border-box;
+  margin: 20px 0px 10px;
+}
+
+.style-21 {
+  margin: 0px 0px 10px;
+  box-sizing: border-box;
+}
+
+.style-27 {
+  width: 100%;
+  margin-right: -15px;
+  margin-left: -15px;
+  box-sizing: border-box;
+}
+
+.style-28 {
+  width: 45%;
+  float: left;
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+  box-sizing: border-box;
+}
+
+.style-29 {
+  border-bottom: 1px solid rgb(221, 221, 221);
+  padding-left: 0px;
+  margin-bottom: 0px;
+  list-style: outside none none;
+  margin-top: 0px;
+  box-sizing: border-box;
+}
+
+.style-30 {
+  float: left;
+  margin-bottom: -1px;
+  display: block;
+  position: relative;
+  box-sizing: border-box;
+}
+
+.style-31 {
+  color: rgb(85, 85, 85);
+  cursor: default;
+  background-color: rgb(255, 255, 255);
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(221, 221, 221) rgb(221, 221, 221) rgba(0, 0, 0, 0);
+  border-image: none;
+  margin-right: 2px;
+  line-height: 20px;
+  border: 1px solid transparent;
+  border-radius: 4px 4px 0px 0px;
+  padding: 10px 15px;
+  display: block;
+  position: relative;
+  text-decoration: none solid rgb(85, 85, 85);
+  box-sizing: border-box;
+}
+
+.style-34 {
+  border-right: 1px solid rgb(221, 221, 221);
+  border-bottom: 1px solid rgb(221, 221, 221);
+  border-left: 1px solid rgb(221, 221, 221);
+  border-image: none;
+  border-top: 0px none rgb(51, 51, 51);
+  border-radius: 0px 0px 4px 4px;
+  padding: 14px;
+  box-sizing: border-box;
+}
+
+.style-35 {
+  display: block;
+  box-sizing: border-box;
+}
+
+.style-36 {
+  font-family: 'Courier New', Courier, monospace;
+  border: 0px none rgb(51, 51, 51);
+  width: 100%;
+  height: 336px;
+  font-size: 14px;
+  line-height: 20px;
+  box-sizing: border-box;
+  margin: 0px;
+  color: rgb(51, 51, 51);
+  overflow: auto;
+}
+
+.style-39 {
+  width: 10%;
+  float: left;
+  padding-top: 140px;
+  position: relative;
+  min-height: 1px;
+  box-sizing: border-box;
+}
+
+.style-46 {
+
+  width: 45%;
+  float: left;
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+  box-sizing: border-box;
+}
+
+.style-47 {
+  border-bottom: 1px solid rgb(221, 221, 221);
+  padding-left: 0px;
+  margin-bottom: 0px;
+  list-style: outside none none;
+  margin-top: 0px;
+  box-sizing: border-box;
+}
+
+.style-48 {
+  float: left;
+  margin-bottom: -1px;
+  display: block;
+  position: relative;
+  box-sizing: border-box;
+}
+
+.style-49 {
+  color: rgb(85, 85, 85);
+  cursor: default;
+  background-color: rgb(255, 255, 255);
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(221, 221, 221) rgb(221, 221, 221) rgba(0, 0, 0, 0);
+  border-image: none;
+  margin-right: 2px;
+  line-height: 20px;
+  border: 1px solid transparent;
+  border-radius: 4px 4px 0px 0px;
+  padding: 10px 15px;
+  display: block;
+  position: relative;
+  text-decoration: none solid rgb(85, 85, 85);
+  box-sizing: border-box;
+}
+
+.style-50 {
+  float: left;
+  margin-bottom: -1px;
+  display: block;
+  position: relative;
+  box-sizing: border-box;
+}
+
+.style-51 {
+  margin-right: 2px;
+  line-height: 20px;
+  border: 1px solid rgba(0, 0, 0, 0);
+  border-radius: 4px 4px 0px 0px;
+  padding: 10px 15px;
+  display: block;
+  position: relative;
+  color: rgb(51, 122, 183);
+  text-decoration: none solid rgb(51, 122, 183);
+  box-sizing: border-box;
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.style-52 {
+  border-right: 1px solid rgb(221, 221, 221);
+  border-bottom: 1px solid rgb(221, 221, 221);
+  border-left: 1px solid rgb(221, 221, 221);
+  border-image: none;
+  border-top: 0px none rgb(51, 51, 51);
+  border-radius: 0px 0px 4px 4px;
+  padding: 14px;
+  box-sizing: border-box;
+}
+
+.style-53 {
+  box-sizing: border-box;
+}
+
+.style-54 {
+  height: 336px;
+  width: 100%;
+  border: 0px none rgb(51, 51, 51);
+  box-sizing: border-box;
+  line-height: 20px;
+
+  margin: 0px;
+  color: rgb(51, 51, 51);
+  overflow: auto;
+}
+
+.style-55 {
+  display: none;
+  box-sizing: border-box;
+}
+
+.style-56 {
+  font-family: 'Courier New', Courier, monospace;
+  border: 0px none rgb(51, 51, 51);
+  width: 100%;
+  height: 336px;
+  font-size: 14px;
+  line-height: 20px;
+  box-sizing: border-box;
+  margin: 0px;
+  color: rgb(51, 51, 51);
+  overflow: auto;
+}
+
+.transform_button {
+  display: block;
+  background: #62869b;
+  width: 75%;
+  height: 25px;
+  padding: 10px 10px 10px 10px;
+  text-align: center;
+  color: #fff;
+  border-radius: 15px;
+  margin-bottom: 10%;
+}
+
+.transform_button:hover {
+  background: #3e5a6b;
+}
+
+.file-upload-button {
+  display: block;
+  padding: 10px 10px 10px 10px;
+  width: 75%;
+  height: 25px;
+  background-color: #4CAF50;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  border: none;
+  cursor: pointer;
+  border-radius: 15px;
+  margin-bottom: 10%;
+}
+
+.file-upload-button:hover {
+  background-color: #45a049;
+}
+
+.style-142 {
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.style-143 {
+  margin-right: -15px;
+  margin-left: -15px;
+  box-sizing: border-box;
+}
+
+.style-144 {
+  width: 100%;
+  float: left;
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+  box-sizing: border-box;
+}
+
+.style-145 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-top: 1px solid rgb(238, 238, 238);
+  box-sizing: content-box;
+  height: 0px;
+  border: 0px;
+}
+
+.style-146 {
+  margin: 0px 0px 10px;
+  box-sizing: border-box;
+}
+
+
+/* For Tablet View */
+@media screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+  .style-28, .style-46, .style-28 {
+      width: 100%;
+  }
+
+  .style-39 {
+      padding-top: 10px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: row;
+      text-align: center;
+      width: 100%;
+      margin-bottom: -8%;
+
+  }
+
+  .transform_button, .file-upload-button {
+      width: 25%;
+  }
+}
+
+/* For Mobile Portrait View */
+@media screen and (max-device-width: 480px) and (orientation: portrait) {
+  .style-28, .style-46, .style-28 {
+      width: 100%;
+  }
+
+  .style-39 {
+      padding-top: 10px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: row;
+      text-align: center;
+      width: 100%;
+      margin-bottom: -8%;
+
+  }
+
+  .transform_button, .file-upload-button {
+      width: 25%;
+  }
+}
+
+/* For Mobile Landscape View */
+@media screen and (max-device-width: 640px) and (orientation: landscape) {
+  .style-28, .style-46, .style-28 {
+      width: 100%;
+  }
+
+  .style-39 {
+      padding-top: 10px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: row;
+      text-align: center;
+      width: 100%;
+      margin-bottom: -8%;
+
+  }
+
+  .transform_button, .file-upload-button {
+      width: 25%;
+  }
+}
+
+/* For Mobile Phones Portrait or Landscape View */
+@media screen and (max-device-width: 640px) {
+  .style-28, .style-46, .style-28 {
+      width: 100%;
+  }
+
+  .style-39 {
+      padding-top: 10px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: row;
+      text-align: center;
+      width: 100%;
+      margin-bottom: -8%;
+
+  }
+
+  .transform_button, .file-upload-button {
+      width: 25%;
+  }
+}
+
+
+/* For iPhone 5 Portrait or Landscape View */
+@media (device-height: 568px) and (device-width: 320px) and (-webkit-min-device-pixel-ratio: 2) {
+  .style-28, .style-46, .style-28 {
+      width: 100%;
+  }
+
+  .style-39 {
+      padding-top: 10px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: row;
+      text-align: center;
+      width: 100%;
+      margin-bottom: -8%;
+
+  }
+
+  .transform_button, .file-upload-button {
+      width: 25%;
+  }
+}
+
+/* For iPhone 6 and 6 plus Portrait or Landscape View */
+@media (min-device-height: 667px) and (min-device-width: 375px) and (-webkit-min-device-pixel-ratio: 3) {
+  .style-28, .style-46, .style-28 {
+      width: 100%;
+  }
+
+  .style-39 {
+      padding-top: 10px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: row;
+      text-align: center;
+      width: 100%;
+      margin-bottom: -8%;
+
+  }
+
+  .transform_button, .file-upload-button {
+      width: 25%;
+  }
+
+  .style-39 {
+      padding-top: 10px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: row;
+      text-align: center;
+      width: 100%;
+      margin-bottom: -8%;
+
+  }
+
+  .transform_button, .file-upload-button {
+      width: 25%;
+  }
+}
