@@ -14,8 +14,8 @@ This is a simple web application that converts Markdown text to HTML. It allows 
 
 1. Open the application in your web browser.
 2. You can either:
-    - Type or paste your Markdown text into the text area, or
-    - Click the "Choose File" button to upload a Markdown file.
+   - Type or paste your Markdown text into the text area, or
+   - Click the "Choose File" button to upload a Markdown file.
 3. Click the "Transform" button to convert the Markdown to HTML.
 4. The converted HTML will be displayed in the "Preview" and "Raw-HTML" panels.
 5. Click the "Download" button to download the converted HTML as a file.
