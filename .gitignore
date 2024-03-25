@@ -75,3 +75,5 @@ dist
 
 # DynamoDB Local files
 .dynamodb/
+
+.idea
